@@ -26,7 +26,6 @@
 	<theme id="bizmodels" name="Business Models" cc_theme_id="bizmodels" />
 	<theme id="startrek" name="Star Trek Quogs" cc_theme_id="startrek" enable="N" />
 	<theme id="toonadv" name="Toon Adventure" cc_theme_id="willie" enable="N" />	
-	<theme id="Comm" name="Community Library" />
 	<word></word>
 	<whiteword />
 	<excludeAssetIDs />
