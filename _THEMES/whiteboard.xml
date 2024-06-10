@@ -8386,4 +8386,7 @@
 	<part id="right" src="middleRight" grid="r" scale="h" anchor="tl"/>
 	<part id="bottom" src="bottomCenter" grid="b" scale="w"/>
 </flow>
+<char id="257892053" name="Office Worker" cc_theme_id="whiteboard" thumbnail_url="stock_thumbs/257892053.png" copyable="Y">
+	<tags>whiteboard</tags>
+</char>
 </theme>
